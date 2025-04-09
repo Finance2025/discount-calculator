@@ -1,0 +1,4 @@
+Discount Calculator Results
+============================
+✅ Original: KES 300, Discount: 30% → Final Price: KES 210.00
+✅ Original: KES 30, Discount: 20% → Final Price: KES 24.00
